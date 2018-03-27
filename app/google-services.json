@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "853923118503",
+    "firebase_url": "https://chatbasedapplication.firebaseio.com",
+    "project_id": "chatbasedapplication",
+    "storage_bucket": "chatbasedapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853923118503:android:e7c20acfc99ff231",
+        "android_client_info": {
+          "package_name": "com.mandeepchatbasedapplication.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853923118503-ecsj17knp8d4mq9p3bo7ionfckfigj4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvEAF0N9GK4s56thZEzzBeTkH-PBYBQVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
